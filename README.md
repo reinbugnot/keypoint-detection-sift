@@ -1,6 +1,6 @@
 # Keypoint Localization using SIFT
 
-![Project Image](/figures/DoG Output.png)
+![Project Image](/figures/DoG_Output.png)
 
 ## Table of Contents
 - [Overview](#overview)
