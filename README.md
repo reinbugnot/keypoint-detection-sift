@@ -43,7 +43,7 @@ The SIFT algorithm implemented in this project follows these main steps:
 
 For detailed information on the SIFT algorithm, refer to [SIFT Algorithm](https://link-to-sift-algorithm-paper).
 
-You may also read our own paper (**Image-Stitching.pdf**) where we used the output of this keypoint localization project for Image Stitching.
+You may also read our own paper [](Image-Stitching.pdf) where we used the output of this keypoint localization project for Image Stitching.
 
 ## Results
 
