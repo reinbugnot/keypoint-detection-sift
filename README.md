@@ -1,6 +1,6 @@
 # Keypoint Localization using SIFT
 
-![Project Image](link/to/your/project/image.png)
+![Project Image](/figures/DoG Output.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -46,11 +46,15 @@ For detailed information on the SIFT algorithm, refer to [SIFT Algorithm](https:
 You may also read our [project paper](/Image-Stitching.pdf) where we used the output of this keypoint localization project for Image Stitching.
 
 ## Results
+The keypoint localization project implemented using SIFT algorithm has demonstrated robust performance in identifying distinctive keypoints or anchors within images. These keypoints serve as essential landmarks, effectively capturing unique features irrespective of scale, rotation, or illumination changes. The algorithm excels in localizing points of interest, providing a foundation for various computer vision applications.
 
 ![Detected Keypoints](/figures/detected_keypoints_filtered.png)
+
+In practical terms, these keypoints can be instrumental in tasks such as image recognition, object detection, and image stitching. For image recognition, the detected keypoints serve as salient features, facilitating accurate matching and recognition of objects across different images. In object detection, the localized keypoints contribute to the precise identification and tracking of objects in dynamic scenes. Furthermore, in image stitching applications, these keypoints play a crucial role in aligning and merging multiple images seamlessly.
+
 
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests. 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
